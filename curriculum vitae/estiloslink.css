@@ -1,0 +1,19 @@
+html{
+    font-size:18px;
+}
+
+h1{
+	font-family: "Quattrocento sans",sans-serif;
+	width:50%;
+	height:81%;
+	border-style:solid;
+	border-top: none;
+    border-width: medium;
+    border-right: none;
+}
+
+
+body{
+
+	background-image: url(background-greywhite.jpg);
+}

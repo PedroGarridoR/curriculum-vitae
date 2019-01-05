@@ -1,8 +1,4 @@
 
-
-
-
-
 #titulo{
 	 
     width:100%;
@@ -43,13 +39,12 @@ aside{
 
 h2 #estudios{
 
-	#estudios{
-    
     text-transform: uppercase;
     font-size:14px;
     color: hsl(100,10%,20%);
 }
 
-
-
+main{
+    font-family: "Quattrocento sans",sans-serif;
 }
+
